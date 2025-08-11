@@ -1,0 +1,266 @@
+country_id,country_name,region,income_group,currency_unit
+AFE,Africa Eastern and Southern,,,
+AFW,Africa Western and Central,,,
+ARB,Arab World,,,
+CEB,Central Europe and the Baltics,,,
+CSS,Caribbean small states,,,
+EAP,East Asia & Pacific (excluding high income),,,
+EAR,Early-demographic dividend,,,
+EAS,East Asia & Pacific,,,
+ECA,Europe & Central Asia (excluding high income),,,
+ECS,Europe & Central Asia,,,
+EMU,Euro area,,,
+EUU,European Union,,,
+FCS,Fragile and conflict affected situations,,,
+HIC,High income,,,
+HPC,Heavily indebted poor countries (HIPC),,,
+IBD,IBRD only,,,
+IBT,IDA & IBRD total,,,
+IDA,IDA total,,,
+IDB,IDA blend,,,
+IDX,IDA only,,,
+LAC,Latin America & Caribbean (excluding high income),,,
+LCN,Latin America & Caribbean,,,
+LDC,Least developed countries: UN classification,,,
+LIC,Low income,,,
+LMC,Lower middle income,,,
+LMY,Low & middle income,,,
+LTE,Late-demographic dividend,,,
+MEA,Middle East & North Africa,,,
+MIC,Middle income,,,
+MNA,Middle East & North Africa (excluding high income),,,
+NAC,North America,,,
+OED,OECD members,,,
+OSS,Other small states,,,
+PRE,Pre-demographic dividend,,,
+PSS,Pacific island small states,,,
+PST,Post-demographic dividend,,,
+SAS,South Asia,,,
+SSA,Sub-Saharan Africa (excluding high income),,,
+SSF,Sub-Saharan Africa,,,
+SST,Small states,,,
+TEA,East Asia & Pacific (IDA & IBRD),,,
+TEC,Europe & Central Asia (IDA & IBRD),,,
+TLA,Latin America & Caribbean (IDA & IBRD),,,
+TMN,Middle East & North Africa (IDA & IBRD),,,
+TSA,South Asia (IDA & IBRD),,,
+TSS,Sub-Saharan Africa (IDA & IBRD),,,
+UMC,Upper middle income,,,
+WLD,World,,,
+ASM,American Samoa,East Asia & Pacific,Upper middle income,U.S. dollar
+AUS,Australia,East Asia & Pacific,High income,Australian dollar
+BRN,Brunei,East Asia & Pacific,High income,Brunei dollar
+CHN,China,East Asia & Pacific,Upper middle income,Chinese yuan
+FJI,Fiji,East Asia & Pacific,Upper middle income,Fijian dollar
+FSM,Micronesia,East Asia & Pacific,Lower middle income,U.S. dollar
+GUM,Guam,East Asia & Pacific,High income,U.S. dollar
+HKG,"Hong Kong SAR, China",East Asia & Pacific,High income,Hong Kong dollar
+IDN,Indonesia,East Asia & Pacific,Lower middle income,Indonesian rupiah
+JPN,Japan,East Asia & Pacific,High income,Japanese yen
+KHM,Cambodia,East Asia & Pacific,Lower middle income,Cambodian riel
+KIR,Kiribati,East Asia & Pacific,Lower middle income,Australian dollar
+KOR,Korea,East Asia & Pacific,High income,Korean won
+LAO,Lao PDR,East Asia & Pacific,Lower middle income,Lao kip
+MAC,"Macao SAR, China",East Asia & Pacific,High income,Macao pataca
+MHL,Marshall Islands,East Asia & Pacific,Upper middle income,U.S. dollar
+MMR,Myanmar,East Asia & Pacific,Lower middle income,Myanmar kyat
+MNG,Mongolia,East Asia & Pacific,Lower middle income,Mongolian tugrik
+MNP,Northern Mariana Islands,East Asia & Pacific,High income,U.S. dollar
+MYS,Malaysia,East Asia & Pacific,Upper middle income,Malaysian ringgit
+NCL,New Caledonia,East Asia & Pacific,High income,CFP franc
+NRU,Nauru,East Asia & Pacific,High income,Australian dollar
+NZL,New Zealand,East Asia & Pacific,High income,New Zealand dollar
+PHL,Philippines,East Asia & Pacific,Lower middle income,Philippine peso
+PLW,Palau,East Asia & Pacific,Upper middle income,U.S. dollar
+PNG,Papua New Guinea,East Asia & Pacific,Lower middle income,Papua New Guinea kina
+PRK,Dem. People's Rep. Korea,East Asia & Pacific,Low income,Democratic People's Republic of Korean won
+PYF,French Polynesia,East Asia & Pacific,High income,CFP franc
+SGP,Singapore,East Asia & Pacific,High income,Singapore dollar
+SLB,Solomon Islands,East Asia & Pacific,Lower middle income,Solomon Islands dollar
+THA,Thailand,East Asia & Pacific,Upper middle income,Thai baht
+TLS,Timor-Leste,East Asia & Pacific,Lower middle income,U.S. dollar
+TON,Tonga,East Asia & Pacific,Upper middle income,Tongan pa'anga
+TUV,Tuvalu,East Asia & Pacific,Upper middle income,Australian dollar
+VNM,Vietnam,East Asia & Pacific,Lower middle income,Vietnamese dong
+VUT,Vanuatu,East Asia & Pacific,Lower middle income,Vanuatu vatu
+WSM,Samoa,East Asia & Pacific,Lower middle income,Samoan tala
+ALB,Albania,Europe & Central Asia,Upper middle income,Albanian lek
+AND,Andorra,Europe & Central Asia,High income,Euro
+ARM,Armenia,Europe & Central Asia,Upper middle income,Armenian dram
+AUT,Austria,Europe & Central Asia,High income,Euro
+AZE,Azerbaijan,Europe & Central Asia,Upper middle income,New Azeri manat
+BEL,Belgium,Europe & Central Asia,High income,Euro
+BGR,Bulgaria,Europe & Central Asia,Upper middle income,Bulgarian lev
+BIH,Bosnia and Herzegovina,Europe & Central Asia,Upper middle income,Bosnia and Herzegovina convertible mark
+BLR,Belarus,Europe & Central Asia,Upper middle income,Belarusian rubel
+CHE,Switzerland,Europe & Central Asia,High income,Swiss franc
+CHI,Channel Islands,Europe & Central Asia,High income,Pound sterling
+CYP,Cyprus,Europe & Central Asia,High income,Euro
+CZE,Czech Republic,Europe & Central Asia,High income,Czech koruna
+DEU,Germany,Europe & Central Asia,High income,Euro
+DNK,Denmark,Europe & Central Asia,High income,Danish krone
+ESP,Spain,Europe & Central Asia,High income,Euro
+EST,Estonia,Europe & Central Asia,High income,Euro
+FIN,Finland,Europe & Central Asia,High income,Euro
+FRA,France,Europe & Central Asia,High income,Euro
+FRO,Faroe Islands,Europe & Central Asia,High income,Danish krone
+GBR,United Kingdom,Europe & Central Asia,High income,Pound sterling
+GEO,Georgia,Europe & Central Asia,Upper middle income,Georgian lari
+GIB,Gibraltar,Europe & Central Asia,High income,Gibraltar pound
+GRC,Greece,Europe & Central Asia,High income,Euro
+GRL,Greenland,Europe & Central Asia,High income,Danish krone
+HRV,Croatia,Europe & Central Asia,High income,Croatian kuna
+HUN,Hungary,Europe & Central Asia,High income,Hungarian forint
+IMN,Isle of Man,Europe & Central Asia,High income,Pound sterling
+IRL,Ireland,Europe & Central Asia,High income,Euro
+ISL,Iceland,Europe & Central Asia,High income,Iceland krona
+ITA,Italy,Europe & Central Asia,High income,Euro
+KAZ,Kazakhstan,Europe & Central Asia,Upper middle income,Kazakh tenge
+KGZ,Kyrgyz Republic,Europe & Central Asia,Lower middle income,Kyrgyz som
+LIE,Liechtenstein,Europe & Central Asia,High income,Swiss franc
+LTU,Lithuania,Europe & Central Asia,High income,Euro
+LUX,Luxembourg,Europe & Central Asia,High income,Euro
+LVA,Latvia,Europe & Central Asia,High income,Euro
+MCO,Monaco,Europe & Central Asia,High income,Euro
+MDA,Moldova,Europe & Central Asia,Upper middle income,Moldovan leu
+MKD,North Macedonia,Europe & Central Asia,Upper middle income,Macedonian denar
+MNE,Montenegro,Europe & Central Asia,Upper middle income,Euro
+NLD,Netherlands,Europe & Central Asia,High income,Euro
+NOR,Norway,Europe & Central Asia,High income,Norwegian krone
+POL,Poland,Europe & Central Asia,High income,Polish zloty
+PRT,Portugal,Europe & Central Asia,High income,Euro
+ROU,Romania,Europe & Central Asia,High income,New Romanian leu
+RUS,Russia,Europe & Central Asia,Upper middle income,Russian ruble
+SMR,San Marino,Europe & Central Asia,High income,Euro
+SRB,Serbia,Europe & Central Asia,Upper middle income,New Serbian dinar
+SVK,Slovak Republic,Europe & Central Asia,High income,Euro
+SVN,Slovenia,Europe & Central Asia,High income,Euro
+SWE,Sweden,Europe & Central Asia,High income,Swedish krona
+TJK,Tajikistan,Europe & Central Asia,Lower middle income,Tajik somoni
+TKM,Turkmenistan,Europe & Central Asia,Upper middle income,New Turkmen manat
+TUR,Türkiye,Europe & Central Asia,Upper middle income,New Turkish lira
+UKR,Ukraine,Europe & Central Asia,Lower middle income,Ukrainian hryvnia
+UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Uzbek som
+XKX,Kosovo,Europe & Central Asia,Upper middle income,Euro
+ABW,Aruba,Latin America & Caribbean,High income,Aruban florin
+ARG,Argentina,Latin America & Caribbean,Upper middle income,Argentine peso
+ATG,Antigua and Barbuda,Latin America & Caribbean,High income,East Caribbean dollar
+BHS,The Bahamas,Latin America & Caribbean,High income,Bahamian dollar
+BLZ,Belize,Latin America & Caribbean,Upper middle income,Belize dollar
+BOL,Bolivia,Latin America & Caribbean,Lower middle income,Bolivian Boliviano
+BRA,Brazil,Latin America & Caribbean,Upper middle income,Brazilian real
+BRB,Barbados,Latin America & Caribbean,High income,Barbados dollar
+CHL,Chile,Latin America & Caribbean,High income,Chilean peso
+COL,Colombia,Latin America & Caribbean,Upper middle income,Colombian peso
+CRI,Costa Rica,Latin America & Caribbean,Upper middle income,Costa Rican colon
+CUB,Cuba,Latin America & Caribbean,Upper middle income,Cuban peso
+CUW,Curaçao,Latin America & Caribbean,High income,Netherlands Antillean guilder
+CYM,Cayman Islands,Latin America & Caribbean,High income,Cayman Islands dollar
+DMA,Dominica,Latin America & Caribbean,Upper middle income,East Caribbean dollar
+DOM,Dominican Republic,Latin America & Caribbean,Upper middle income,Dominican peso
+ECU,Ecuador,Latin America & Caribbean,Upper middle income,U.S. dollar
+GRD,Grenada,Latin America & Caribbean,Upper middle income,East Caribbean dollar
+GTM,Guatemala,Latin America & Caribbean,Upper middle income,Guatemalan quetzal
+GUY,Guyana,Latin America & Caribbean,Upper middle income,Guyana dollar
+HND,Honduras,Latin America & Caribbean,Lower middle income,Honduran lempira
+HTI,Haiti,Latin America & Caribbean,Lower middle income,Haitian gourde
+JAM,Jamaica,Latin America & Caribbean,Upper middle income,Jamaican dollar
+KNA,St. Kitts and Nevis,Latin America & Caribbean,High income,East Caribbean dollar
+LCA,St. Lucia,Latin America & Caribbean,Upper middle income,East Caribbean dollar
+MAF,St. Martin (French part),Latin America & Caribbean,High income,Euro
+MEX,Mexico,Latin America & Caribbean,Upper middle income,Mexican peso
+NIC,Nicaragua,Latin America & Caribbean,Lower middle income,Nicaraguan gold cordoba
+PAN,Panama,Latin America & Caribbean,High income,Panamanian balboa
+PER,Peru,Latin America & Caribbean,Upper middle income,Peruvian new sol
+PRI,Puerto Rico,Latin America & Caribbean,High income,U.S. dollar
+PRY,Paraguay,Latin America & Caribbean,Upper middle income,Paraguayan guarani
+SLV,El Salvador,Latin America & Caribbean,Lower middle income,U.S. dollar
+SUR,Suriname,Latin America & Caribbean,Upper middle income,Suriname dollar
+SXM,Sint Maarten (Dutch part),Latin America & Caribbean,High income,Netherlands Antillean guilder
+TCA,Turks and Caicos Islands,Latin America & Caribbean,High income,U.S. dollar
+TTO,Trinidad and Tobago,Latin America & Caribbean,High income,Trinidad and Tobago dollar
+URY,Uruguay,Latin America & Caribbean,High income,Uruguayan peso
+VCT,St. Vincent and the Grenadines,Latin America & Caribbean,Upper middle income,East Caribbean dollar
+VEN,Venezuela,Latin America & Caribbean,,Venezuelan bolivar fuerte
+VGB,British Virgin Islands,Latin America & Caribbean,High income,U.S. dollar
+VIR,Virgin Islands,Latin America & Caribbean,High income,U.S. dollar
+ARE,United Arab Emirates,Middle East & North Africa,High income,U.A.E. dirham
+BHR,Bahrain,Middle East & North Africa,High income,Bahraini dinar
+DJI,Djibouti,Middle East & North Africa,Lower middle income,Djibouti franc
+DZA,Algeria,Middle East & North Africa,Lower middle income,Algerian dinar
+EGY,Egypt,Middle East & North Africa,Lower middle income,Egyptian pound
+IRN,Iran,Middle East & North Africa,Lower middle income,Iranian rial
+IRQ,Iraq,Middle East & North Africa,Upper middle income,Iraqi dinar
+ISR,Israel,Middle East & North Africa,High income,Israeli new shekel
+JOR,Jordan,Middle East & North Africa,Upper middle income,Jordanian dinar
+KWT,Kuwait,Middle East & North Africa,High income,Kuwaiti dinar
+LBN,Lebanon,Middle East & North Africa,Lower middle income,Lebanese pound
+LBY,Libya,Middle East & North Africa,Upper middle income,Libyan dinar
+MAR,Morocco,Middle East & North Africa,Lower middle income,Moroccan dirham
+MLT,Malta,Middle East & North Africa,High income,Euro
+OMN,Oman,Middle East & North Africa,High income,Omani rial
+PSE,West Bank and Gaza,Middle East & North Africa,Lower middle income,Israeli new shekel
+QAT,Qatar,Middle East & North Africa,High income,Qatari riyal
+SAU,Saudi Arabia,Middle East & North Africa,High income,Saudi Arabian riyal
+SYR,Syrian Arab Republic,Middle East & North Africa,Low income,Syrian pound
+TUN,Tunisia,Middle East & North Africa,Lower middle income,Tunisian dinar
+YEM,Yemen,Middle East & North Africa,Low income,Yemeni rial
+BMU,Bermuda,North America,High income,Bermuda dollar
+CAN,Canada,North America,High income,Canadian dollar
+USA,United States,North America,High income,U.S. dollar
+AFG,Afghanistan,South Asia,Low income,Afghan afghani
+BGD,Bangladesh,South Asia,Lower middle income,Bangladeshi taka
+BTN,Bhutan,South Asia,Lower middle income,Bhutanese ngultrum
+IND,India,South Asia,Lower middle income,Indian rupee
+LKA,Sri Lanka,South Asia,Lower middle income,Sri Lankan rupee
+MDV,Maldives,South Asia,Upper middle income,Maldivian rufiyaa
+NPL,Nepal,South Asia,Lower middle income,Nepalese rupee
+PAK,Pakistan,South Asia,Lower middle income,Pakistani rupee
+AGO,Angola,Sub-Saharan Africa,Lower middle income,Angolan kwanza
+BDI,Burundi,Sub-Saharan Africa,Low income,Burundi franc
+BEN,Benin,Sub-Saharan Africa,Lower middle income,West African CFA franc
+BFA,Burkina Faso,Sub-Saharan Africa,Low income,West African CFA franc
+BWA,Botswana,Sub-Saharan Africa,Upper middle income,Botswana pula
+CAF,Central African Republic,Sub-Saharan Africa,Low income,Central African CFA franc
+CIV,Côte d'Ivoire,Sub-Saharan Africa,Lower middle income,West African CFA franc
+CMR,Cameroon,Sub-Saharan Africa,Lower middle income,Central African CFA franc
+COD,Dem. Rep. Congo,Sub-Saharan Africa,Low income,Congolese franc
+COG,Congo,Sub-Saharan Africa,Lower middle income,Central African CFA franc
+COM,Comoros,Sub-Saharan Africa,Lower middle income,Comorian franc
+CPV,Cabo Verde,Sub-Saharan Africa,Lower middle income,Cabo Verde escudo
+ERI,Eritrea,Sub-Saharan Africa,Low income,Eritrean nakfa
+ETH,Ethiopia,Sub-Saharan Africa,Low income,Ethiopian birr
+GAB,Gabon,Sub-Saharan Africa,Upper middle income,Central African CFA franc
+GHA,Ghana,Sub-Saharan Africa,Lower middle income,New Ghanaian cedi
+GIN,Guinea,Sub-Saharan Africa,Low income,Guinean franc
+GMB,The Gambia,Sub-Saharan Africa,Low income,Gambian dalasi
+GNB,Guinea-Bissau,Sub-Saharan Africa,Low income,West African CFA franc
+GNQ,Equatorial Guinea,Sub-Saharan Africa,Upper middle income,Central African CFA franc
+KEN,Kenya,Sub-Saharan Africa,Lower middle income,Kenyan shilling
+LBR,Liberia,Sub-Saharan Africa,Low income,Liberian dollar
+LSO,Lesotho,Sub-Saharan Africa,Lower middle income,Lesotho loti
+MDG,Madagascar,Sub-Saharan Africa,Low income,Malagasy ariary
+MLI,Mali,Sub-Saharan Africa,Low income,West African CFA franc
+MOZ,Mozambique,Sub-Saharan Africa,Low income,New Mozambican metical
+MRT,Mauritania,Sub-Saharan Africa,Lower middle income,Mauritanian ouguiya
+MUS,Mauritius,Sub-Saharan Africa,Upper middle income,Mauritian rupee
+MWI,Malawi,Sub-Saharan Africa,Low income,Malawi kwacha
+NAM,Namibia,Sub-Saharan Africa,Upper middle income,Namibian dollar
+NER,Niger,Sub-Saharan Africa,Low income,West African CFA franc
+NGA,Nigeria,Sub-Saharan Africa,Lower middle income,Nigerian naira
+RWA,Rwanda,Sub-Saharan Africa,Low income,Rwandan franc
+SDN,Sudan,Sub-Saharan Africa,Low income,Sudanese pound
+SEN,Senegal,Sub-Saharan Africa,Lower middle income,West African CFA franc
+SLE,Sierra Leone,Sub-Saharan Africa,Low income,Sierra Leonean leone
+SOM,Somalia,Sub-Saharan Africa,Low income,Somali shilling
+SSD,South Sudan,Sub-Saharan Africa,Low income,South Sudanese Pound
+STP,São Tomé and Principe,Sub-Saharan Africa,Lower middle income,São Tomé and Principe dobra
+SWZ,Eswatini,Sub-Saharan Africa,Lower middle income,Swazi lilangeni
+SYC,Seychelles,Sub-Saharan Africa,High income,Seychelles rupee
+TCD,Chad,Sub-Saharan Africa,Low income,Central African CFA franc
+TGO,Togo,Sub-Saharan Africa,Low income,West African CFA franc
+TZA,Tanzania,Sub-Saharan Africa,Lower middle income,Tanzanian shilling
+UGA,Uganda,Sub-Saharan Africa,Low income,Ugandan shilling
+ZAF,South Africa,Sub-Saharan Africa,Upper middle income,South African rand
+ZMB,Zambia,Sub-Saharan Africa,Low income,New Zambian kwacha
+ZWE,Zimbabwe,Sub-Saharan Africa,Lower middle income,Zimbabwean Dollar

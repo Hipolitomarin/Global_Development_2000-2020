@@ -1,0 +1,75 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "North America"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-100, 45]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Latin America & Caribbean"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70, -15]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Europe & Central Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30, 55]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Middle East & North Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35, 25]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "Sub-Saharan Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20, -10]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "South Asia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80, 25]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "region": "East Asia & Pacific"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [120, 20]
+      }
+    }
+  ]
+}

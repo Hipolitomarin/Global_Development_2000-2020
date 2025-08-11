@@ -1,0 +1,65 @@
+{
+  "type": "Topology",
+  "objects": {
+    "regions": {
+      "type": "GeometryCollection",
+      "geometries": [
+        {
+          "type": "MultiPolygon",
+          "properties": {
+            "region": "East Asia & Pacific",
+            "id": 1,
+            "value": 0.31858667
+          },
+          "coordinates": [[[[-100,30],[-10,40],[-20,30]]]]
+        },
+        {
+          "type": "MultiPolygon",
+          "properties": {
+            "region": "Europe & Central Asia",
+            "id": 2,
+            "value": 0.37061951
+          },
+          "coordinates": [[[[-5,50],[-10,60],[-15,50]]]]
+        },
+        {
+          "type": "MultiPolygon",
+          "properties": {
+            "region": "Latin America & Caribbean",
+            "id": 3,
+            "value": 0.38649167
+          },
+          "coordinates": [[[[ -75, 10], [10, 50], [-10, -5], [0, 10], [-10, -15], [10, 10]]]]
+        },
+        {
+          "type": "MultiPolygon",
+          "properties": {
+            "region": "Middle East & North Africa",
+            "id": 4,
+            "value": 0.40592857
+          },
+          "coordinates": [[[ [70, 20], [75, 25], [80, 30], [70, 15], [80, 30] ]]]
+        },
+        {
+          "type": "MultiPolygon",
+          "properties": {
+            "region": "Sub-Saharan Africa",
+            "id": 5,
+            "value": 0.46535185
+          },
+          "coordinates": [[[ [20, -5], [25, 0], [30, 0], [35, 5], [20, 0], [25, 5], [30, 0], [35, 5] ]]]
+        },
+        {
+          "type": "MultiPolygon",
+          "properties": {
+            "region": "South Asia",
+            "id": 6,
+            "value": 0.49206667
+          },
+          "coordinates": [[[ [90, -5], [95, -3], [96, -5], [92, -3], [99, -4], [95, -3] ]]]
+        }
+      ]
+    }
+  },
+  "arcs": []
+}
