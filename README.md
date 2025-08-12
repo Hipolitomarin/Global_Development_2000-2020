@@ -2,6 +2,8 @@
 🌍 Global Development Indicators - Exploratory Data Analysis
 ------------------------------------------------------------
 
+Presentation Link : https://docs.google.com/presentation/d/1Z9Fsf2t3ZC5NKyGQZSKE6SLsBo0XWO2Ex3GL2BoZ6mU/edit?slide=id.g37368cef7d1_0_54#slide=id.g37368cef7d1_0_54
+
 📝 Description
 This comprehensive dataset merges global economic, environmental, technological, and human development indicators from 2000 to 2020. Sourced and transformed from multiple public datasets via Google BigQuery, it is designed for advanced exploratory data analysis, machine learning, policy modeling, and sustainability research.
 
@@ -19,7 +21,7 @@ Resilience and Governance
 - Compare development patterns across regions/income groups
 - Explore relationships among health, environment, and digital growth
 - Highlight pandemic period effects and resilience metrics
-- Create a machine learning model to predict the GPD.
+- Create a machine learning model to predict the GPD depending of other variables.
 
 📚 Libraries Used
 
