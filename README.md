@@ -19,6 +19,7 @@ Resilience and Governance
 - Compare development patterns across regions/income groups
 - Explore relationships among health, environment, and digital growth
 - Highlight pandemic period effects and resilience metrics
+- Create a machine learning model to predict the GPD.
 
 📚 Libraries Used
 
